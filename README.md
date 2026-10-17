@@ -3,7 +3,7 @@
 **Senior Software Engineer at Firisbe**  
 Payment systems · Distributed systems · Applied AI
 
-[Website](https://bahadrhllyalcn.com) · [Experience & education](https://bahadrhllyalcn.com/profile.html) · [LinkedIn](https://www.linkedin.com/in/bahadryalcn/)
+[Website](https://bahadrhllyalcn.com) · [Experience & education](https://bahadrhllyalcn.com/profile.html) · [LinkedIn](https://www.linkedin.com/in/bahadryalcn/) · [info@bahadrhllyalcn.com](mailto:info@bahadrhllyalcn.com)
 
 I build and improve payment services, merchant platforms, digital wallets, and the tools that help us test and maintain them. My work crosses frontend, backend, mobile, and system design.
 

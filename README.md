@@ -1,35 +1,64 @@
 # Bahadır Halil Yalçın
 
-I’m a software developer based in Turkey. I work across payment systems, web platforms, mobile apps, and developer tools. I also build games and experiment with practical uses of AI.
+**Senior Software Engineer & Team Lead at Firisbe**  
+Payment systems · Distributed systems · Applied AI
 
-## What I work on
+[Website](https://bahadrhllyalcn.com) · [Experience & education](https://bahadrhllyalcn.com/profile.html) · [LinkedIn](https://www.linkedin.com/in/bahadryalcn/)
 
-**Payments and fintech.** Payment gateway interfaces, merchant onboarding, transaction reporting, digital wallets, and open banking. My contributions span frontend applications, mobile flows, and backend service changes.
+I lead an engineering team and stay hands-on with the software we build: payment services, merchant platforms, digital wallets, and the tools that help us test and maintain them. My work crosses frontend, backend, mobile, and system design.
 
-**Web applications.** Administration portals, shared UI components, permissions, authentication, and multilingual interfaces. I also work on business websites, content management, and interactive 3D experiences.
+I completed my **M.Sc. in Software Engineering at Chang'an University in China**, supported by a Chinese Government Scholarship. My research covered **AI applications, cloud computing, and microservices architecture**. Those interests continue through my work on source-grounded research tools, developer software, and independent products.
 
-**Mobile and desktop.** React Native and Expo apps, web apps packaged with Capacitor, and desktop tooling built with Tauri and Rust.
+## Engineering at Firisbe
 
-**AI applications.** Legal research with source-backed retrieval, clinic management software, creative image tools, and browser extensions for organizing information.
+**Senior Software Engineer & Team Lead · 2023–present**
 
-**Testing and tooling.** Test dashboards, failure tracking, flaky-test analysis, and issue workflows that make it easier to understand what broke and what needs attention.
+- Lead the engineering team, coordinate delivery priorities, review code, and mentor developers while contributing to implementation.
+- Build and improve payment flows, including gateway integrations, virtual POS selection, installments, 3D Secure callbacks, and transaction state handling.
+- Work on merchant onboarding, document and agreement workflows, operational dashboards, reporting, and digital wallet applications.
+- Develop QA automation and internal tools for payment scenarios, failure investigation, and release checks.
 
-**Games.** Mobile gameplay in Unity and C#, alongside browser game experiments with React and Three.js.
+The work spans React, Next.js, Node.js, Java, PostgreSQL, MongoDB, and Kafka, with a focus on reliable integrations and maintainable systems.
 
-## Open-source work
+## Education
 
-I maintain **[bycoda](https://github.com/bahadryalcn/bycoda)**, a desktop workspace that brings coding-agent conversations, project files, terminals, and Git diffs together. It is built with Tauri, React, TypeScript, and Rust.
+| Degree | University | Years |
+| --- | --- | --- |
+| **M.Sc. Software Engineering** | Chang'an University, China | 2019–2022 |
+| **B.Sc. Computer Engineering** | Selçuk University, Turkey | 2013–2018 |
 
-The **[mobile app](https://github.com/bahadryalcn/bycoda-mobile)** uses Expo and React Native.
+**Chinese Government Scholarship recipient.** Graduate research in AI applications, cloud computing, and microservices architecture.
 
-Much of my other work lives in private repositories. The areas above describe that work without sharing client code or internal project details.
+## Projects & independent work
 
-## What I work with
+**[bycoda](https://github.com/bahadryalcn/bycoda)** — A desktop workspace for coding agents, project files, terminals, and Git review. I maintain the project using Tauri, React, TypeScript, and Rust. Its [mobile app](https://github.com/bahadryalcn/bycoda-mobile) uses Expo and React Native.
 
-TypeScript · JavaScript · React · Next.js · React Native · Expo · Node.js
+Beyond the public repositories, my projects and contributions include:
 
-Rust · Tauri · C# · Unity · Three.js · PostgreSQL · Docker · Git
+| Area | Work |
+| --- | --- |
+| **Applied AI** | Source-backed legal research, retrieval workflows, creative image applications, and bookmark classification tools. |
+| **Business software** | Clinic management, administration portals, shared UI components, permissions, and multilingual workflows. |
+| **Mobile** | Digital wallet flows and consumer applications built with React Native, Expo, and Capacitor. |
+| **Developer productivity** | Test dashboards, failure tracking, flaky-test analysis, and issue workflows. |
+| **Web & interactive work** | Business websites, content management, animation, and Three.js experiences. |
+| **Games** | Unity/C# mobile games and React/Three.js browser experiments. |
 
-I care about clear interfaces, reliable workflows, and code that stays manageable as a product grows.
+Some of this work belongs to private or team repositories; the descriptions here keep client code and internal details private.
 
-[LinkedIn](https://www.linkedin.com/in/bahadryalcn/)
+## Earlier chapters
+
+I started building **SpecialWar**, an MMO FPS hobby project, in **2011–2013**. That meant working on C++ multiplayer gameplay, MySQL-backed services, account systems, administration tools, and the day-to-day problems of running a game for real players.
+
+Later projects took me through ASP.NET MVC, JavaScript, databases, and full-stack application development before I moved into payment systems. My earlier experience also includes internships at **HAVELSAN** and **ARD Grup**.
+
+## Technologies
+
+| | |
+| --- | --- |
+| **Web & mobile** | TypeScript, JavaScript, React, Next.js, React Native, Expo, Capacitor |
+| **Backend & data** | Node.js, Java, .NET/C#, PostgreSQL, MongoDB, MySQL, Redis, Kafka |
+| **Desktop & games** | Rust, Tauri, C++, C#, Unity, Three.js |
+| **Delivery** | Docker, Linux, AWS, GitHub Actions, CI/CD, test automation |
+
+For my full professional background, visit **[bahadrhllyalcn.com](https://bahadrhllyalcn.com)**.

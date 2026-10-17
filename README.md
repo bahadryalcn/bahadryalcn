@@ -1,19 +1,19 @@
 # Bahadır Halil Yalçın
 
-**Senior Software Engineer & Team Lead at Firisbe**  
+**Senior Software Engineer at Firisbe**  
 Payment systems · Distributed systems · Applied AI
 
 [Website](https://bahadrhllyalcn.com) · [Experience & education](https://bahadrhllyalcn.com/profile.html) · [LinkedIn](https://www.linkedin.com/in/bahadryalcn/)
 
-I lead an engineering team and stay hands-on with the software we build: payment services, merchant platforms, digital wallets, and the tools that help us test and maintain them. My work crosses frontend, backend, mobile, and system design.
+I build and improve payment services, merchant platforms, digital wallets, and the tools that help us test and maintain them. My work crosses frontend, backend, mobile, and system design.
 
 I completed my **M.Sc. in Software Engineering at Chang'an University in China**, supported by a Chinese Government Scholarship. My research covered **AI applications, cloud computing, and microservices architecture**. Those interests continue through my work on source-grounded research tools, developer software, and independent products.
 
 ## Engineering at Firisbe
 
-**Senior Software Engineer & Team Lead · 2023–present**
+**Senior Software Engineer · 2023–present**
 
-- Lead the engineering team, coordinate delivery priorities, review code, and mentor developers while contributing to implementation.
+- Contribute across frontend, backend, and system design, with attention to code quality and maintainability.
 - Build and improve payment flows, including gateway integrations, virtual POS selection, installments, 3D Secure callbacks, and transaction state handling.
 - Work on merchant onboarding, document and agreement workflows, operational dashboards, reporting, and digital wallet applications.
 - Develop QA automation and internal tools for payment scenarios, failure investigation, and release checks.

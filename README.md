@@ -7,7 +7,7 @@ Payment systems · Distributed systems · Applied AI
 
 I build and improve payment services, merchant platforms, digital wallets, and the tools that help us test and maintain them. My work crosses frontend, backend, mobile, and system design.
 
-I completed my **M.Sc. in Software Engineering at Chang'an University in China**, supported by a Chinese Government Scholarship. My research covered **AI applications, cloud computing, and microservices architecture**. Those interests continue through my work on source-grounded research tools, developer software, and independent products.
+I completed my **M.Sc. in Software Engineering at Chang'an University in China**. My research covered **AI applications, cloud computing, and microservices architecture**. Those interests continue through my work on source-grounded research tools, developer software, and independent products.
 
 ## Engineering at Firisbe
 
@@ -27,7 +27,7 @@ The work spans React, Next.js, Node.js, Java, PostgreSQL, MongoDB, and Kafka, wi
 | **M.Sc. Software Engineering** | Chang'an University, China | 2019–2022 |
 | **B.Sc. Computer Engineering** | Selçuk University, Turkey | 2013–2018 |
 
-**Chinese Government Scholarship recipient.** Graduate research in AI applications, cloud computing, and microservices architecture.
+Graduate research in AI applications, cloud computing, and microservices architecture.
 
 ## Projects & independent work
 
